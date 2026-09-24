@@ -1,0 +1,1 @@
+{"name":"Local: codefr","url":"c:\\Users\\sneha\\C\\sneha cpp\\cfsheet2\\codefr.cpp","tests":[{"id":1783350871625,"input":"2 5\n3 4\n5 7\n5 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sneha\\C\\sneha cpp\\cfsheet2\\codefr.cpp","group":"local","local":true}

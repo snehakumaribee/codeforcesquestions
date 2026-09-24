@@ -1,0 +1,1 @@
+{"name":"Local: codef1818A","url":"c:\\Users\\sneha\\C\\sneha cpp\\codef1818A.cpp","tests":[{"id":1783756180073,"input":"5\n2 2\n++\n+-\n1 3\n+-+\n4 1\n+\n-\n-\n+\n5 4\n++++\n+--+\n++-+\n+-++\n++++\n4 2\n++\n--\n--\n-+","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sneha\\C\\sneha cpp\\codef1818A.cpp","group":"local","local":true}

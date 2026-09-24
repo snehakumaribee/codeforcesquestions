@@ -1,0 +1,18 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    string x, y;
+    cin >> x >> y;
+    int n = 0;
+
+    if (x<y)
+    {
+        cout << x;
+    }
+    else
+        cout << y;
+
+    return 0;
+}

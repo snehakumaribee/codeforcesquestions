@@ -1,0 +1,1 @@
+{"name":"Local: codef1509B","url":"c:\\Users\\sneha\\C\\sneha cpp\\codeforcesB\\codef1509B.cpp","tests":[{"id":1787301668772,"input":"5\n3\nTMT\n3\nMTT\n6\nTMTMTT\n6\nTMTTTT\n6\nTTMMTT","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sneha\\C\\sneha cpp\\codeforcesB\\codef1509B.cpp","group":"local","local":true}

@@ -1,0 +1,13 @@
+alt + up/down = drag line up or down
+
+alt + shift + up/down = copy line down
+
+ctrl + z = undo
+
+in search bar = type >autosave       click to on/off
+
+adress of a variable in ram = %p(hexadecimal)   %u(decimal)
+
+&a = address of variable a 
+
+//return 0 means the program was executed successfully. return 1 mean there is some problem.
