@@ -1,0 +1,54 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    int t;
+    cin >> t;
+
+    long long n;
+    while (t--)
+    {
+        cin >> n;
+
+        while (n % 2 == 0)
+        {
+            n = n / 2;
+        }
+
+        if (n > 1)
+        {
+            cout << "YES\n";
+        }
+        else
+            cout << "NO\n";
+    }
+
+    return 0;
+}
+
+//BETTER
+
+/*
+#include <bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    int t;
+    cin >> t;
+
+    while (t--)
+    {
+        long long n;
+        cin >> n;
+
+        if (n > 0 && (n & (n - 1)) == 0)
+            cout << "YES\n";
+        else
+            cout << "NO\n";
+    }
+
+    return 0;
+}
+*/
